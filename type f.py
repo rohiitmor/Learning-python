@@ -38,3 +38,5 @@ c = input( 12 )
 
 average_square = (a**2 + b**2 + c**2) / 3
 print("The average square is:", average_square)
+
+

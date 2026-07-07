@@ -1,11 +1,11 @@
-#a = input("Enter a number 1: ")
+a = input("Enter a number 1: ")
 
-#b = input("Enter a number 2: ")
+b = input("Enter a number 2: ")
 
-#a = str(a)
-#b = str(b)
+a = str(a)
+b = str(b)
 
-#print(a + b)
+print(a + b)
 
 
 #convert the input strings to integers
@@ -22,5 +22,4 @@ b = int(b)
 print(a + b)
 
 
-#problem solve
-#
+
